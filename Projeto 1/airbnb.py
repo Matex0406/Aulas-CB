@@ -1,4 +1,6 @@
-import numpy as np
+import kagglehub
 
-vteste = np.zeros(10)
-print(vteste)
+# Download latest version
+path = kagglehub.dataset_download("ashishjangra27/airbnb-dataset")
+
+print("Path to dataset files:", path)
