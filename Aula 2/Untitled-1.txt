@@ -1,0 +1,14 @@
+**Dicionário - Titanic DataSet**
+
+- `PassengerId`: Código de identificação do passageiro;
+- `Survived`: Se sobreviveu (survived=1) ou não (survived=0);
+- `Pclass`: Classe comercial. Pode ser primeira (Pclass=1), segunda (Pclass=2) ou terceira classe (Pclass=3);
+- `Name`: Nome do passageiro;
+- `Sex`: Sexo biológico;
+- `Age`: Idade;
+- `SibSp`: Número de irmãos;
+- `Parch`: Representa o número de pais ou crianças que o passageiro tinha consigo a bordo;
+- `Ticket`: Número do ticket;
+- `Fare`: Valor pago pelo ticker;
+- `Cabin`: Cabine onde ficou hospedado;
+- `Embarked`: Local onde embarcou (C = Cherbourg; Q = Queenstown; S = Southampton).
